@@ -9,6 +9,8 @@ author_profile: true
 1. <b><ins> Shin, H., & Chae, J. (2020). A performance review of collision-free path planning algorithms. Electronics, 9(2), 316.
 2. <b><ins> Lee, H. Y., Shin, H., & Chae, J. (2018). Path planning for mobile agents using a genetic algorithm with a direction guided factor. Electronics, 7(10), 212.
 3. <b><ins> Kim, M., Shin, H., & Chae, J. (2017). Merge Control using Reserve Ahead Point in Baggage Handling System. Journal of the Society of Korea Industrial and Systems Engineering, 40(2), 60-67.
+
+
 ## Under Review/Revision
 
 ## Working paper
