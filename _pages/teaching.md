@@ -17,3 +17,6 @@ author_profile: true
 # Graduate Teaching Assistant in Korea Aerospace University
 * **Analysis of Logistics System**, Spring 2018, Spring 2019.
 
+# Academic Services
+* Professional Society Memberships
+ * Institute for Operation Research and the Management Sciences (INFORMS).
