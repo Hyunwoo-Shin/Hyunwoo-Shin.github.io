@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Conference talks"
 permalink: /talks/
 author_profile: true
 ---
-
-# Conference talks
 * **INFORMS**: INFORMS Annual Meeting 2023, Phoenix, AZ
   * Hyunwoo Shin, Xi Chen and Sait Tunc. Forecasting Organ Transplant Allocation Scores Using Machine Learning Models
 * **Decision Science Institutie (DSI)**: 49th Annual Meeting 2018, Chicago, IL
