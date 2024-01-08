@@ -21,4 +21,4 @@ author_profile: true
 
 # Academic Services
 * Professional Society Memberships
- * Institute for Operation Research and the Management Sciences (INFORMS).
+  * <span style="color: black"> Institute for Operation Research and the Management Sciences (INFORMS).
