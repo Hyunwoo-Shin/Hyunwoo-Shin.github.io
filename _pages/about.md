@@ -13,7 +13,7 @@ My name is Hyunwoo Shin. I'm a Ph.D. candidate under the supervision of Dr. Sait
 Education
 ======
 * __Virginia Polytechnic Institute and State University (Virginia Tech)__, Blacksburg, VA, U.S.A.
-  * Ph.D., Department of Industrial and Systems Engineering, (2021 - current).  
+  * Ph.D., Grado Department of Industrial and Systems Engineering, (2021 - current).  
   * Advisor: Dr. Sait Tunc and Dr. Xi Chen. 
 * __Korea Aerospace University__, Goyang, Republic of Korea.
   * M.S., Logistics, School of Air Transport, Transprtation and Logistics, (2018-2020).
