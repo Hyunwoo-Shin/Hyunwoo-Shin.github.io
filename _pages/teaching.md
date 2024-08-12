@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 # Graduate Teaching Assistant in Virginia Tech
+* ISE 2404: **Deterministic Operations Research**, Summer 2024.
 * ISE 5414: **Random Process**, Spring 2024.
 * ISE 5244: **Facilities Planning and Material Handling**, Spring 2024.
 * ISE 4424: **Logistics Enginnering**, Fall 2023.
