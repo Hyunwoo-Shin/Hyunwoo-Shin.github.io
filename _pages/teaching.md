@@ -21,5 +21,7 @@ author_profile: true
 * **Analysis of Logistics System**, Spring 2018, Spring 2019.
 
 # Academic Services
+* Session Chair
+  * <span style="color: black"> "Simulation Modeling in Healthcare," Informs Annual Meeting (2024).
 * Professional Society Memberships
   * <span style="color: black"> Institute for Operation Research and the Management Sciences (INFORMS).
