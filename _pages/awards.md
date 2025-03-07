@@ -5,5 +5,4 @@ permalink: /awards/
 author_profile: true
 ---
 *  ISE Graduate Student Travel Awards, Virginia Tech (2023-2024).
-*  Best Paper Award, Korea Logistic Society (2018).
 *  Academic Scholarship in Korea Aerospace University (2013) & (2016–2019).
