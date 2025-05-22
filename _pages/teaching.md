@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: ""
-permalink: /experience/
+permalink: /teaching/
 author_profile: true
 ---
 # Graduate Teaching Assistant in Virginia Tech
