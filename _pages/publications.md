@@ -17,5 +17,5 @@ author_profile: true
 
 
 ## Working paper
-2. <b><ins> H. Shin, S. Tunc, P. Afeche, M. Begen, B. Sandikci, F. Murillo, B. Hansen, M. Claasen, G. Sapisochin. Deciphering Organ Offer Decisions: An In-depth Analysis of the Canadian Liver Transplant System
-3. <b><ins> H. Shin, S. Tunc, X. Chen, D. Kreisel, V. Puri. Temporal Analysis of Organ Allocation: Forecasting Dynamic Scores,
+1. <b><ins> H. Shin, S. Tunc, P. Afeche, M. Begen, B. Sandikci, F. Murillo, B. Hansen, M. Claasen, G. Sapisochin. Deciphering Organ Offer Decisions: An In-depth Analysis of the Canadian Liver Transplant System
+2. <b><ins> H. Shin, S. Tunc, X. Chen, D. Kreisel, V. Puri. Temporal Analysis of Organ Allocation: Forecasting Dynamic Scores,
