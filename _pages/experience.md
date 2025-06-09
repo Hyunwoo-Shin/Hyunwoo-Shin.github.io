@@ -4,6 +4,9 @@ title: ""
 permalink: /experience/
 author_profile: true
 ---
+# Summer Internship
+* National Renewable Energy Laboratory (NREL), Summer 2025.
+
 # Graduate Teaching Assistant in Virginia Tech
 * STAT 4705: **Probability and Statistics for Engineers**, Spring 2025.
 * ISE 2404: **Deterministic Operations Research**, Summer 2024.
