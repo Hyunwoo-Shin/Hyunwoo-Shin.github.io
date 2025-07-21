@@ -18,4 +18,5 @@ author_profile: true
 
 ## Working paper
 1. <b><ins> H. Shin, S. Tunc, P. Afeche, M. Begen, B. Sandikci, F. Murillo, B. Hansen, M. Claasen, G. Sapisochin. Deciphering Organ Offer Decisions: An In-depth Analysis of the Canadian Liver Transplant System
-2. <b><ins> H. Shin, S. Tunc, X. Chen, J. M. Reynolds. Temporal Analysis of Organ Allocation: Forecasting Dynamic Scores,
+2. <b><ins> H. Shin, S. Tunc, X. Chen, J. M. Reynolds. Temporal Analysis of Organ Allocation: Forecasting Dynamic Scores
+3. <b><ins> Y. Ha, H. Shin, J. Mueller. Scalable Traffic Signal Control for Urban Mobility: A Subspace-Based Optimization Approach Using Deep Reinforcement Learning
