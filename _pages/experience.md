@@ -21,9 +21,6 @@ author_profile: true
 * **Operations Research 1**, Spring 2021.
   * <span style="color: black"> Introduction to linear programming for sophomore  </span>
 
-# Graduate Teaching Assistant in Korea Aerospace University
-* **Analysis of Logistics System**, Spring 2018, Spring 2019.
-
 # Academic Services
 * Session Chair
   * <span style="color: black"> "Healthcare Policy Optimization," INFORMS Annual Meeting (Planned in 2025).
