@@ -12,7 +12,7 @@ author_profile: true
 * ISE 2404: **Deterministic Operations Research**, Summer 2024.
 * ISE 5414: **Random Process**, Spring 2024.
 * ISE 5244: **Facilities Planning and Material Handling**, Spring 2024.
-* ISE 4424: **Logistics Enginnering**, Fall 2023.
+* ISE 4424: **Logistics Engineering**, Fall 2023.
 * ISE 2034: **Data Management for Industrial and Systems Engineers**, Spring 2023.
 * ISE 5204: **Manufacturing Systems Engineering**, Fall 2022.
 * ISE 4404: **Statistical Quality Control**, Fall 2022.
