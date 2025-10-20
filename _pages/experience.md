@@ -31,5 +31,5 @@ author_profile: true
   * <span style="color: black"> "Simulation Modeling in Healthcare," INFORMS Annual Meeting (2024).
 * Professional Society Memberships
   * <span style="color: black"> Institute for Operation Research and the Management Sciences (INFORMS).
-* INFORMS Student Chapter
+* INFORMS VT Student Chapter
   * <span style="color: black"> VP Events (2025-2026).
