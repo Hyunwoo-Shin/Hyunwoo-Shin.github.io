@@ -5,6 +5,8 @@ title: "Conference talks"
 permalink: /talks/
 author_profile: true
 ---
+* **INFORMS**: INFORMS Annual Meeting 2025, Atlanta, GA
+  * Hyunwoo Shin, Xi Chen and Sait Tunc. Optimizing U.S. Lung Allocation Policy via a Multi-Objective Trust-Region-based Simulation Optimization Algorithm
 * **INFORMS**: INFORMS Annual Meeting 2024, Seattle, WA
   * Hyunwoo Shin, Xi Chen and Sait Tunc. Calibration of Simulation Models for Organ Allocation Using Conformal Prediction Concepts
 * **INFORMS**: INFORMS Annual Meeting 2023, Phoenix, AZ
