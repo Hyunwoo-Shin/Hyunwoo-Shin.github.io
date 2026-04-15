@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 # Instructor of Record in Virginia Tech
-* ISE 4424: **Logistics Engineering**, Spring 2026 (Scheduled).
+* ISE 4424: **Logistics Engineering**, Spring 2026.
 
 # Summer Internship
 * **National Renewable Energy Laboratory (NREL)**, Summer 2025.
