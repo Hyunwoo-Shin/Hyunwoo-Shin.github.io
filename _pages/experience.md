@@ -20,7 +20,7 @@ author_profile: true
 * ISE 5204: **Manufacturing Systems Engineering**, Fall 2022.
 * ISE 4404: **Statistical Quality Control**, Fall 2022.
 
-# Lecturer in Korea Aerospace University
+# Instructor of Record in Korea Aerospace University
 * **Operations Research 1**, Spring 2021.
   * <span style="color: black"> Introduction to linear programming for sophomore  </span>
 
