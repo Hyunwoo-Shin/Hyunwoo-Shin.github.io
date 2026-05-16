@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Hyunwoo Shin. I'm a Ph.D. candidate under the supervision of Dr. Sait Tunc and Dr. Xi Chen in the Grando Department of Industrial and Systems Engineering at Virginia Tech. I'm working on analysis of organ allocation system via simulation model.
+My name is Hyunwoo Shin. I recently defended my Ph.D. dissertation in the Grado Department of Industrial and Systems Engineering at Virginia Tech, where I worked under the supervision of Dr. Sait Tunc and Dr. Xi Chen. My research focuses on organ allocation systems using simulation modeling and simulation optimization methods.
 
 
 Education
 ======
 * __Virginia Polytechnic Institute and State University (Virginia Tech)__, Blacksburg, VA, U.S.A.
-  * Ph.D., Grado Department of Industrial and Systems Engineering, (2021 - current).  
-  * Advisor: Dr. Sait Tunc and Dr. Xi Chen. 
+  * Ph.D., Grado Department of Industrial and Systems Engineering, (2021–2026).  
+  * Dissertation defended May 2026.
 * __Korea Aerospace University__, Goyang, Republic of Korea.
   * M.S., Logistics, School of Air Transport, Transprtation and Logistics, (2018-2020).
 * __Korea Aerospace University__, Goyang, Republic of Korea.
