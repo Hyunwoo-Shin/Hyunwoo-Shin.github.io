@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Hyunwoo Shin. I recently defended my Ph.D. dissertation in the Grado Department of Industrial and Systems Engineering at Virginia Tech, where I conducted research under the supervision of Drs. Sait Tunc and Xi Chen. My research focuses on healthcare operations, simulation modeling, simulation optimization, and data-driven decision making, with applications in organ transplantation and public health.
+My name is Hyunwoo Shin. I recently defended my Ph.D. dissertation in the Grado Department of Industrial and Systems Engineering at Virginia Tech, where I conducted research under the supervision of Drs. Sait Tunc and Xi Chen. My research focuses on healthcare operations, simulation modeling, simulation optimization, and quantitative methods for supporting medical and public health decision making.
 
 I will join MD Anderson Cancer Center as an incoming Postdoctoral Researcher working with Dr. Iakovos Toumazis.
 
