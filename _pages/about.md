@@ -16,7 +16,7 @@ I will join MD Anderson Cancer Center as an incoming Postdoctoral Researcher wor
 
 Education
 ======
-* __Virginia Polytechnic Institute and State University (Virginia Tech)__, Blacksburg, VA, U.S.A.
+* __Virginia Tech__, Blacksburg, VA, U.S.A.
   * Ph.D., Grado Department of Industrial and Systems Engineering, (2021–2026).  
   * Dissertation defended May 2026.
 * __Korea Aerospace University__, Goyang, Republic of Korea.
