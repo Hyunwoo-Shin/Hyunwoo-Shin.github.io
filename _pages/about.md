@@ -19,7 +19,6 @@ Current Position
 
 * __MD Anderson Cancer Center__, Houston, TX, U.S.A.
   * Postdoctoral Fellow, Department of Health Services Research (Aug. 2026–Present).
-  * Working with Dr. Iakovos Toumazis.
 
 Education
 ======
