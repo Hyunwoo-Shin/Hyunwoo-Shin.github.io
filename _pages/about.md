@@ -34,6 +34,6 @@ Education
 
 Research Interests
 ======
-* __Methodology__: Simulation Optimization; Statistical Inference; Simulation Validation; Interpretability of Machine Learning.
-* __Application__: Organ Transplantation; Medical Decision Making; Healthcare; Logistics; Traffic.
+* __Methodology__: Simulation Modeling; Simulation Optimization; Statistical Learning.
+* __Applications__: Healthcare Operations; Health Policy; Organ Transplantation; Cancer Screening.
 
