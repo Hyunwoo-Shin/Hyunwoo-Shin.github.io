@@ -7,12 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Hyunwoo Shin. I recently defended my Ph.D. dissertation in the Grado Department of Industrial and Systems Engineering at Virginia Tech, where I conducted research under the supervision of Drs. Sait Tunc and Xi Chen. My research focuses on healthcare operations and health policy, with an emphasis on simulation modeling, simulation optimization, and statistical learning methods. Recent applications of my work include organ allocation and transplantation policy.
+I am a Postdoctoral Fellow in the Department of Health Services Research at MD Anderson Cancer Center, working with Dr. Iakovos Toumazis. My current research focuses on simulation modeling for lung cancer screening and health policy evaluation.
 
-I will join MD Anderson Cancer Center as an incoming Postdoctoral Researcher working with Dr. Iakovos Toumazis.
+I received my Ph.D. in Industrial and Systems Engineering from Virginia Tech, where I conducted research under the supervision of Drs. Sait Tunc and Xi Chen.
+
+Broadly, my research focuses on healthcare operations and health policy, with an emphasis on simulation modeling, simulation optimization, and statistical learning methods. My research aims to develop quantitative methods for evaluating complex healthcare systems, with recent applications in organ allocation, transplantation policy, and cancer screening.
 
 
+Current Position
+======
 
+* __MD Anderson Cancer Center__, Houston, TX, U.S.A.
+  * Postdoctoral Fellow, Department of Health Services Research (Aug. 2026–Present).
+  * Working with Dr. Iakovos Toumazis.
 
 Education
 ======
