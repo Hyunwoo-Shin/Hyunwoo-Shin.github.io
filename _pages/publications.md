@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## Under Review/Revision
-1. <b><ins> H. Shin, S. Tunc, X. Chen, J. M. Reynolds. A Comprehensive Simulation Framework for Evaluating U.S. Lung Allocation Policies, under review at Health Care Management Science
+1. <b><ins> H. Shin, S. Tunc, X. Chen, J. M. Reynolds. A Comprehensive Simulation Framework for Evaluating U.S. Lung Allocation Policies, Minor Revision at Health Care Management Science
 
 
 ## Working paper
