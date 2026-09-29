@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hyunwoo Shin"
 title_separator          : "-"
 name                     : &name "Hyunwoo Shin"
-description              : &description "Ph.D. Candidate, Grado Department of Industrial and Systems Engineering, Virginia Tech"
+description              : &description "Postdoctoral Fellow, Department of Health Services Research, UT MD Anderson Cancer Center"
 url                      : https://Hyunwoo-Shin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/Hyunwoo-Shin.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hyunwoo Shin"
   avatar           : "HyunwooShin.jpg"
-  bio              : "Ph.D. Candidate, Grado Department of Industrial and Systems Engineering, Virginia Tech"
-  location         : "Blacksburg, VA"
+  bio              : "Postdoctoral Fellow, Department of Health Services Research, UT MD Anderson Cancer Center"
+  location         : "Houston, TX"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.kr/citations?user=Raj1to0AAAAJ&hl=en"
-  email            : "hyunwoos@vt.edu"
+  email            : "hshin2@mdanderson.org"
   researchgate     : "https://www.researchgate.net/profile/Hyunwoo-Shin"
   uri              :
   bitbucket        :
