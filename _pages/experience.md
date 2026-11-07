@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 # Postdoctoral Fellow
-* **UT MD Anderson**, Aug 2026 - Current.
+* **UT MD Anderson**, Aug 2026 - Present.
 
 # Instructor of Record in Virginia Tech
 * ISE 4424: **Logistics Engineering**, Spring 2026.
