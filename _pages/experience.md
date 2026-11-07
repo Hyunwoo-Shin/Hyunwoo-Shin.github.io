@@ -26,7 +26,7 @@ author_profile: true
 
 # Academic Services
 * Session Chair
-  * <span style="color: black"> ``Applications of Operations Research in Oncology,'' INFORMS Annual Meeting (2026).
+  * <span style="color: black"> "Applications of Operations Research in Oncology," INFORMS Annual Meeting (2026).
   * <span style="color: black"> "Healthcare Policy Optimization," INFORMS Annual Meeting (2025).
   * <span style="color: black"> "Inference and Resource Allocation in Healthcare Systems," INFORMS Annual Meeting (2025).
   * <span style="color: black"> "Simulation Modeling in Healthcare," INFORMS Annual Meeting (2024).
