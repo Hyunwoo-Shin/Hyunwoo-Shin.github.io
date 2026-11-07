@@ -5,6 +5,8 @@ title: "Conference talks"
 permalink: /talks/
 author_profile: true
 ---
+* **INFORMS**: INFORMS Annual Meeting 2026, San Francisco, CA
+  * Hyunwoo Shin, Xi Chen and Sait Tunc. Evidence-Based Policy Search under Simulation Uncertainty in Lung Allocation
 * **INFORMS**: INFORMS Annual Meeting 2025, Atlanta, GA
   * Hyunwoo Shin, Xi Chen and Sait Tunc. Optimizing U.S. Lung Allocation Policy via a Multi-Objective Trust-Region-based Simulation Optimization Algorithm
 * **INFORMS**: INFORMS Annual Meeting 2024, Seattle, WA
