@@ -15,7 +15,7 @@ author_profile: true
 
 ## Under Review/Revision
 1. <b><ins> H. Shin, S. Tunc, X. Chen, J. M. Reynolds. Forecasting Near-Term Changes in a Dynamic Allocation Score: Evidence from Lung Transplantation, Under review at INFORMS Journal on Data Science
-2. <b><ins> S. Ishizawa, N. Collier, R. Nargund, M. Eghbalizarch,  S. Mousavi, \textbf{H Shin}, E. Ostirn, S. Atkar-Khattra, E. Irajizad, J. Dennison, S. Hanash, M. Tammemagi, S. Lam, J. Ozik, R. Meza, I Toumazis. Characterizing the Natural History of Lung Cancer by Sex, Histology, and Nodule attenuation: insights from the CHRONOS-Lung natural history model. Under review at Chest
+2. <b><ins> S. Ishizawa, N. Collier, R. Nargund, M. Eghbalizarch,  S. Mousavi, H Shin, E. Ostirn, S. Atkar-Khattra, E. Irajizad, J. Dennison, S. Hanash, M. Tammemagi, S. Lam, J. Ozik, R. Meza, I Toumazis. Characterizing the Natural History of Lung Cancer by Sex, Histology, and Nodule attenuation: insights from the CHRONOS-Lung natural history model. Under review at Chest
 
 ## Working paper
 1. <b><ins> H. Shin, S. Tunc, P. Afeche, M. Begen, B. Sandikci, F. Murillo, B. Hansen, M. Claasen, G. Sapisochin. Deciphering Organ Offer Decisions: An In-depth Analysis of the Canadian Liver Transplant System
