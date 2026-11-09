@@ -11,7 +11,7 @@ I am a Postdoctoral Fellow in the Department of Health Services Research at MD A
 
 I received my Ph.D. in Industrial and Systems Engineering from Virginia Tech, where I conducted research under the supervision of Drs. Sait Tunc and Xi Chen.
 
-Broadly, my research focuses on healthcare operations and health policy, with an emphasis on simulation modeling, simulation optimization, and statistical learning methods. My research aims to develop quantitative methods for evaluating complex healthcare systems, with recent applications in organ allocation, transplantation policy, and cancer screening.
+My research focuses on healthcare operations and health policy, with an emphasis on simulation modeling, simulation optimization, and statistical learning methods. My research aims to develop quantitative methods for evaluating complex healthcare systems, with recent applications in organ allocation, transplantation policy, and cancer screening.
 
 
 Current Position
